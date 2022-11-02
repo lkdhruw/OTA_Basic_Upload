@@ -7,8 +7,8 @@
 
 
 unsigned int BAUD_RATE = 115200;
-String ssid_ = "MSI_2020";
-String password_ = "12345000";
+String ssid_ = "YOUR_SSID";
+String password_ = "YOUR_PASSWORD";
 const char* ssid = ssid_.c_str();
 const char* password = password_.c_str();
 
